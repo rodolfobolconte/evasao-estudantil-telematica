@@ -1,0 +1,13 @@
+Nome Algoritmo;K-Fold;Acurácia;Precisão;Sensibilidade;Taxa de Falsa Previsão Positiva;Tempo de Processamento (s);VN;FP;FN;VP
+RandomForest-100-UnderSampling;1;0,83;0,95;0,753;0,136;0,01562166;100;6;38;116
+RandomForest-100-UnderSampling;2;0,838;0,93;0,758;0,19;0,01562333;111;8;34;107
+RandomForest-100-UnderSampling;3;0,873;0,938;0,85;0,272;0,01562356;90;9;24;137
+RandomForest-100-UnderSampling;4;0,826;0,931;0,772;0,2;0;93;9;36;122
+RandomForest-100-UnderSampling;5;0,815;0,838;0,859;0,541;0,01562285;77;26;22;135
+RandomForest-100-UnderSampling;6;0,838;0,908;0,816;0,309;0,01565098;89;13;29;129
+RandomForest-100-UnderSampling;7;0,83;0,957;0,745;0,113;0;102;5;39;114
+RandomForest-100-UnderSampling;8;0,826;0,92;0,79;0,244;0,01561999;87;11;34;128
+RandomForest-100-UnderSampling;9;0,819;0,89;0,792;0,319;0,01562023;91;15;32;122
+RandomForest-100-UnderSampling;10;0,803;0,886;0,781;0,313;0,01562952;84;16;35;125
+;;;;;;;;;;
+Médias;;82,98%;91,48%;79,16%;26,37%;0,012501212;92,4;11,8;32,3;123,5

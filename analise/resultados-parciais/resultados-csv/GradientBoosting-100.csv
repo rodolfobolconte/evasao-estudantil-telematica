@@ -1,0 +1,13 @@
+Nome Algoritmo;K-Fold;Acurácia;Precisão;Sensibilidade;Taxa de Falsa Previsão Positiva;Tempo de Processamento (s);VN;FP;FN;VP
+GradientBoosting-100;1;0,823;0,844;0,866;0,543;0;78;25;21;136
+GradientBoosting-100;2;0,869;0,898;0,898;0,5;0;76;17;17;150
+GradientBoosting-100;3;0,834;0,858;0,84;0,465;0;96;20;23;121
+GradientBoosting-100;4;0,846;0,89;0,857;0,425;0;82;17;23;138
+GradientBoosting-100;5;0,85;0,885;0,856;0,435;0;90;17;22;131
+GradientBoosting-100;6;0,857;0,852;0,914;0,648;0,00203156;84;24;13;139
+GradientBoosting-100;7;0,853;0,842;0,901;0,631;0;94;24;14;128
+GradientBoosting-100;8;0,85;0,884;0,867;0,461;0,00801658;83;18;21;138
+GradientBoosting-100;9;0,876;0,867;0,926;0,656;0,00200843;90;21;11;138
+GradientBoosting-100;10;0,846;0,904;0,835;0,35;0;88;14;26;132
+;;;;;;;;;;
+Médias;;85,04%;87,24%;87,60%;51,14%;0,0012;86,1;19,7;19,1;135,1
