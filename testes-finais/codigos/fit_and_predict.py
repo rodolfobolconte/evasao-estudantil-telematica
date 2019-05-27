@@ -18,7 +18,7 @@ def importancias(atributos, valores):
 def executar_projeto_evasao_codigo_fonte(teste, atributos):
 
     #data frame com os dados de telemática
-    dados = pd.read_csv('../dados/ifcg_telematica_07a151.csv', delimiter=',')
+    dados = pd.read_csv('../../dados/ifcg_telematica_07a151.csv', delimiter=',')
 
     print('\n%s -' %(teste))
 
@@ -32,7 +32,7 @@ def executar_projeto_evasao_codigo_fonte(teste, atributos):
     #função para treinar e testar os algoritmos com os dados de treino e teste
     def treinar_e_testar(nome_algoritmo, balanceamento, modelo_algoritmo, dados_atributos, dados_marcacoes):
 
-        arquivo = open('../analise/' + nome_algoritmo + '.csv', 'w')
+        arquivo = open('../resultados/' + nome_algoritmo + '.csv', 'w')
         arquivo.write('Nome Algoritmo' + ';K-Fold;' + 'Acurácia;' + 'Precisão;' + 'Sensibilidade;' + 'Taxa de Falsos Positivos;' + 'Taxa de Processamento (s);' + 'VN;' + 'FP;' + 'FN;' + 'VP\n')
 
 
