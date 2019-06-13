@@ -1,0 +1,13 @@
+Nome Algoritmo;Execução;Acurácia;Precisão;Sensibilidade;Taxa de Falsa Previsão Positiva;Tempo de Processamento (s);VN;FP;FN;VP
+Teste1-FlorestaAleatória-100;1;0,845;0,849;0,898;0,609;0,01595664;83;25;16;141
+Teste1-FlorestaAleatória-100;2;0,883;0,898;0,924;0,580;0,01693058;74;18;13;160
+Teste1-FlorestaAleatória-100;3;0,815;0,842;0,858;0,530;0,01698493;77;26;23;139
+Teste1-FlorestaAleatória-100;4;0,867;0,895;0,910;0,542;0,01196813;68;19;16;162
+Teste1-FlorestaAleatória-100;5;0,826;0,845;0,886;0,586;0,01296496;71;27;19;148
+Teste1-FlorestaAleatória-100;6;0,803;0,796;0,889;0,673;0,01196169;76;35;17;137
+Teste1-FlorestaAleatória-100;7;0,811;0,788;0,868;0,64;0,01496028;96;32;18;119
+Teste1-FlorestaAleatória-100;8;0,818;0,821;0,884;0,625;0,01296257;79;30;18;138
+Teste1-FlorestaAleatória-100;9;0,841;0,826;0,922;0,714;0,01296615;80;30;12;143
+Teste1-FlorestaAleatória-100;10;0,837;0,878;0,862;0,465;0,01293325;78;20;23;144
+
+Médias;;=MÉDIA(C2:C11);=MÉDIA(D2:D11);=MÉDIA(E2:E11);=MÉDIA(F2:F11);=MÉDIA(G2:G11);=MÉDIA(H2:H11);=MÉDIA(I2:I11);=MÉDIA(J2:J11);=MÉDIA(K2:K11);

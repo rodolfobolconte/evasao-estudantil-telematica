@@ -1,0 +1,13 @@
+Nome Algoritmo;Execução;Acurácia;Precisão;Sensibilidade;Taxa de Falsa Previsão Positiva;Tempo de Processamento (s);VN;FP;FN;VP
+Teste3-FlorestaAleatória-100-UnderSampling;1;0,826;0,980;0,692;0,043;0,01198244;120;2;44;99
+Teste3-FlorestaAleatória-100-UnderSampling;2;0,845;1,0;0,738;0,0;0,01097011;108;0;41;116
+Teste3-FlorestaAleatória-100-UnderSampling;3;0,886;0,950;0,854;0,233;0,01196193;100;7;23;135
+Teste3-FlorestaAleatória-100-UnderSampling;4;0,762;1,0;0,593;0,0;0,01499152;110;0;63;92
+Teste3-FlorestaAleatória-100-UnderSampling;5;0,837;0,82;0,884;0,627;0,01196742;99;27;16;123
+Teste3-FlorestaAleatória-100-UnderSampling;6;0,849;0,976;0,770;0,075;0,01994609;101;3;37;124
+Teste3-FlorestaAleatória-100-UnderSampling;7;0,792;0,941;0,701;0,127;0,01196837;97;7;48;113
+Teste3-FlorestaAleatória-100-UnderSampling;8;0,833;0,876;0,831;0,409;0,01196670;93;18;26;128
+Teste3-FlorestaAleatória-100-UnderSampling;9;0,815;0,974;0,710;0,061;0,01296544;103;3;46;113
+Teste3-FlorestaAleatória-100-UnderSampling;10;0,815;0,903;0,751;0,244;0,01097035;104;12;37;112
+
+Médias;;=MÉDIA(C2:C11);=MÉDIA(D2:D11);=MÉDIA(E2:E11);=MÉDIA(F2:F11);=MÉDIA(G2:G11);=MÉDIA(H2:H11);=MÉDIA(I2:I11);=MÉDIA(J2:J11);=MÉDIA(K2:K11);

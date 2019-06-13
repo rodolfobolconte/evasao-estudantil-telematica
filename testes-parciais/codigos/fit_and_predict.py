@@ -18,7 +18,7 @@ def importancias(atributos, valores):
 def executar_projeto_evasao_codigo_fonte(teste, atributos):
 
     #data frame com os dados de telemática
-    dados = pd.read_csv('../../dados/ifcg_telematica_07a151.csv', delimiter=',')
+    dados = pd.read_csv('../dados/ifcg_telematica_07a151.csv', delimiter=',')
 
     print('\n%s -' %(teste))
 
